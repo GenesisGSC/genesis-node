@@ -1,0 +1,12 @@
+# .gitignore
+abi/
+artifacts/
+20220815.txt
+account.json
+info.txt
+
+.idea/
+cache/
+artifacts/
+typechain-types/
+node_modules/
